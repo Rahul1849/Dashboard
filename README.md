@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Dashboard App is a dynamic and interactive application built using React and Recharts. It features various components such as a modal for adding widgets, a header with search and filter functionality, and multiple cards displaying pie charts and bar plots. This app allows users to manage widgets and visualize data with different types of charts.
+The Dashboard App is a dynamic and interactive application built using React and Recharts. It features various components such as Redux for state management, a modal for adding widgets, a header with search and filter functionality, and multiple cards displaying pie charts and bar plots. This app allows users to manage widgets and visualize data with different types of charts.
 
 ## Features
 
